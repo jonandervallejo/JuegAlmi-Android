@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Título del artículo -->
+
+    <!-- Imagen del artículo -->
+    <ImageView
+        android:id="@+id/articulo_imagen"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/xbox" />
+
+    <!-- Nombre del artículo -->
+    <TextView
+        android:id="@+id/articulo_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre del Smartphone"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Precio normal -->
+    <TextView
+        android:id="@+id/articulo_precio_normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Precio Normal: $700"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"/>
+
+    <!-- Precio con descuento -->
+
+    <!-- Descripción -->
+
+    <!-- Botones Compra, Alquiler y Reparación -->
+</LinearLayout>

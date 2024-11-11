@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_producto">
+
+    <fragment
+        android:id="@+id/navigation_producto"
+        android:name="com.dam2.juegalmi.ui.producto.ProductoFragment"
+        android:label="@string/title_Producto"
+        tools:layout="@layout/fragment_producto"
+        />
+
+    <fragment
+        android:id="@+id/navigation_ubicacion"
+        android:name="com.dam2.juegalmi.ui.ubicacion.UbicacionFragment"
+        android:label="@string/title_Ubicacion"
+        tools:layout="@layout/fragment_ubicacion" />
+
+    <fragment
+        android:id="@+id/navigation_fotos"
+        android:name="com.dam2.juegalmi.ui.fotos.FotosFragment"
+        android:label="@string/title_Fotos"
+        tools:layout="@layout/fragment_fotos" />
+    <fragment
+        android:id="@+id/navigation_historia"
+        android:name="com.dam2.juegalmi.ui.historia.HistoriaFragment"
+        android:label="@string/title_Historia"
+        tools:layout="@layout/fragment_historia" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.dam2.juegalmi.ui.login.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.dam2.juegalmi.RegisterFragment"
+        android:label="Registro"
+        tools:layout="@layout/fragment_register" />
+
+</navigation>

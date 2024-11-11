@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Juegalmi</string>
+    <string name="title_Producto">Productos</string>
+    <string name="title_Ubicacion">Ubicación</string>
+    <string name="title_Fotos">Fotos</string>
+    <string name="title_Historia">Historia</string>
+
+    <string name="historia_texto1">
+
+JuegAlmi fue fundada en 2010 en una pequeña tienda en el corazón de la ciudad, con un sueño simple pero ambicioso: ofrecer a los amantes de la tecnología un lugar donde pudieran encontrar todo lo relacionado con videojuegos, smartphones y consolas. Desde sus inicios, la empresa se comprometió a proporcionar no solo productos de alta calidad, sino también un servicio excepcional al cliente.
+
+La visión del fundador, Juan Martínez, nació de su pasión por los videojuegos. Desde niño, Juan pasaba horas jugando con su consola y explorando mundos virtuales. Con el tiempo, se dio cuenta de que muchos de sus amigos compartían la misma pasión, pero a menudo tenían dificultades para encontrar los últimos juegos, consolas y dispositivos móviles. Así que decidió crear un lugar donde todos pudieran reunirse y disfrutar de su afición.
+
+La Tienda Crece Con el tiempo, JuegAlmi se convirtió en un punto de referencia para los gamers y los entusiastas de la tecnología. La tienda no solo ofrecía una amplia gama de videojuegos y consolas de última generación, sino que también contaba con un equipo experto en reparaciones. JuegAlmi se convirtió rápidamente en el lugar al que acudir cuando un dispositivo dejaba de funcionar.
+
+El compromiso de la empresa con la calidad se reflejó en cada aspecto de su negocio. Desde el personal capacitado y amable que atendía a los clientes, hasta los servicios de reparación que garantizaban la satisfacción del cliente. JuegAlmi comenzó a organizar eventos, como torneos de videojuegos y presentaciones de nuevos lanzamientos, creando así una comunidad unida de amantes de la tecnología.
+
+Expansión y Nuevas Fronteras </string>
+    <string name="historia_texto2">
+
+A medida que la demanda crecía, JuegAlmi decidió expandirse. En 2015, abrieron una segunda ubicación en un centro comercial local, y en 2018 lanzaron su tienda en línea, lo que permitió a los clientes acceder a sus productos y servicios desde la comodidad de sus hogares. La tienda en línea se convirtió en un gran éxito, ofreciendo envíos rápidos y atención al cliente personalizada.
+
+Con el paso de los años, JuegAlmi se consolidó como líder en el mercado, ofreciendo no solo productos de alta calidad, sino también un servicio postventa excepcional. La empresa introdujo un programa de fidelización para recompensar a sus clientes más leales y se asoció con desarrolladores de videojuegos y marcas de smartphones para ofrecer promociones exclusivas.
+
+Compromiso con la Comunidad</string>
+
+    A lo largo de su trayectoria, JuegAlmi nunca olvidó sus raíces. La empresa se comprometió a
+    devolver a la comunidad organizando eventos benéficos y colaborando con escuelas locales para
+    promover la educación en tecnología. Además, lanzaron un programa de reciclaje de dispositivos,
+    incentivando a los clientes a devolver sus smartphones y consolas viejos a cambio de descuentos
+    en futuras compras.
+
+    <string name="historia_texto3">
+Hoy en día, JuegAlmi es más que una tienda; es un hogar para los amantes de la tecnología. Su dedicación a la calidad, el servicio y la comunidad ha llevado a la empresa a ser un símbolo de confianza en el mundo de los videojuegos, smartphones y consolas. Y aunque han recorrido un largo camino desde sus humildes comienzos, el espíritu de innovación y pasión por la tecnología sigue siendo el corazón de JuegAlmi.</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_register">register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
